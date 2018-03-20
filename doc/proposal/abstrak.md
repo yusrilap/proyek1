@@ -1,2 +1,2 @@
 # Abstrak
-Aplikasi ini merupakan contoh
+Aplikasi ini merupakan contoh. Aplikasi yang bagus
